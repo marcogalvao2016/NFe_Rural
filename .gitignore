@@ -1,0 +1,11 @@
+composer.phar
+/vendor/
+.DS_Store
+/src/gerencianet/
+/src/mpdf80/
+/src/models/conexao/
+/src/models/gerencianet/
+/rest/functions/
+/src/notafiscal/pdf/
+/src/notafiscal/xml/
+/src/notafiscal/cert.pfx
